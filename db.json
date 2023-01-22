@@ -1,7 +1,71 @@
 {
   "user": [
 
-    
+ 
+    {
+      "user": "Prabal",
+      "name": "prabal",
+      "phn": "8463891744",
+      "email": "prabal19999@gmail.com",
+      "password": "84638914744",
+      "id": 1
+    },
+    {
+      "user": "deepak",
+      "name": "deepak",
+      "phn": "7785545278",
+      "email": "deepak@gmail.com",
+      "password": "84638914744",
+      "id": 12
+    },
+    {
+      "user": "Zeeshan",
+      "name": "zeeshan",
+      "phn": "785253656",
+      "email": "zeeshan@gmail.com",
+      "password": "84638914744",
+      "id": 13
+    },
+    {
+      "user": "Zeeshan",
+      "name": "zeeshan",
+      "phn": "785253656",
+      "email": "zeeshan@gmail.com",
+      "password": "84638914744",
+      "id": 14
+    },
+    {
+      "user": "Kanad",
+      "name": "kanad",
+      "phn": "7852711444",
+      "email": "kanad@gmail.com",
+      "password": "84638914744",
+      "id": 15
+    },
+    {
+      "user": "Kanad",
+      "name": "kanad",
+      "phn": "7852711444",
+      "email": "kanad@gmail.com",
+      "password": "84638914744",
+      "id": 16
+    },
+    {
+      "user": "Yogesh",
+      "name": "yogesh",
+      "phn": "7852369889",
+      "email": "yogesh@gmail.com",
+      "password": "84638914744",
+      "id": 17
+    },
+    {
+      "user": "Yogesh",
+      "name": "yogesh",
+      "phn": "7852369889",
+      "email": "yogesh@gmail.com",
+      "password": "84638914744",
+      "id": 18
+    }
   ],
   "boys": [
     {
